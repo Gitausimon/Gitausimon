@@ -1,11 +1,11 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ1anJsdHpwZDRpY3NlY3czb21oZGJsYzRoc2k1N3JtdzFibmg0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://android-developers.googleblog.com/2019/11/android-developer-challenge-heres-what.html)](https://rishavchanda.io)
+
 
 
 <h1 align="center">Hi 👋, I'm simon karanja</h1>
 <h3 align="center">A passionate frontend developer from kenya</h3>
 
-(img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif")
-
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif">
 
 
 
