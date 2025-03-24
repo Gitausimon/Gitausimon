@@ -1,4 +1,4 @@
-[![MasterHead](https://android-developers.googleblog.com/2019/11/android-developer-challenge-heres-what.html)](https://rishavchanda.io)
+
 
 
 
