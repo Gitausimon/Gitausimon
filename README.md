@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm simon karanja</h1>
-<h3 align="center">A passionate frontend developer from kenya</h3>
+<h3 align="center">A passionate full stuck developer from kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif">
 
