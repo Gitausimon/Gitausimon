@@ -1,5 +1,5 @@
 
-[![MasterHead](https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l)]()
+[![MasterHead](https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm simon karanja</h1>
 <h3 align="center">A passionate frontend developer from kenya</h3>
@@ -35,3 +35,4 @@ img align="right" alt="Coding" width="400" src="https://tenor.com/view/developer
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caotic7&show_icons=true&locale=en" alt="caotic7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caotic7&" alt="caotic7" /></p>
+
