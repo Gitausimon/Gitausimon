@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://twitter.com/caotic7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caotic7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gitau simon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gitau simon" height="30" width="40" /></a>
-<a href="https://instagram.com/caotic7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caotic7" height="30" width="40" /></a>
+<a href="https://instagram.com/_. caotic7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caotic7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/caotic7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caotic7" height="30" width="40" /></a>
 </p>
 
